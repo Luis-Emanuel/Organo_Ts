@@ -1,5 +1,5 @@
-import './Banner.css'
-import React from 'react'
+import './Banner.css';
+import React from 'react';
 
 interface BannerProps {
   enderecoImagem: string,
