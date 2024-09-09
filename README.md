@@ -2,7 +2,7 @@
 <p align="center">Pagina web que propõe uma aplicação que cria e organiza os times empresariais</p>
 
 <div align="center">
-<img width="60%" src="https://github.com/Luis-Emanuel/organo/blob/master/readme/gif.gif?raw=true"/>
+<img width="60%" src="https://github.com/Luis-Emanuel/Organo_Ts/blob/main/readme/img.png?raw=true"/>
 </div>	
 
 ## ✔️ Técnicas e tecnologias utilizadas
@@ -23,5 +23,5 @@
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
-<img src="https://github.com/Luis-Emanuel/organo/blob/master/readme/img.png?raw=true"/>
+<img src="https://github.com/Luis-Emanuel/Organo_Ts/blob/main/readme/gif.gif?raw=true"/>
 </div>
