@@ -1,30 +1,27 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
+<h1 align="center">Organo</h1>
+<p align="center">Pagina web que propõe uma aplicação que cria e organiza os times empresariais</p>
 
-# Organo
-
-O Organo é aplicação desenvolvida no curso <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">React: desenvolvendo com JavaScript</a>. 
-Foi pensado e idealizado para ser o primeiro projeto em contato com o React.
-
-<img src="screencapture.png" alt="Imagem do Organo" width="50%">
-
-
-## 🔨 Funcionalidades do projeto
-
-Você pode passear <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">no figma</a> para entender a arte conceitual do projeto.
+<div align="center">
+<img width="60%" src="https://github.com/Luis-Emanuel/organo/blob/master/readme/gif.gif?raw=true"/>
+</div>	
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-Se liga nessa lista de tudo que usaremos nessa formação:
-
-- `React`
+- `HTML`: O HTML tem um papel fundamental para a aplicação funcionar corretamente com a inserção dos elementos `<input >` o usuário pode cadastrar novos membros, cargos e equipes
+- `CSS`: O CSS traz uma aparência e melhora a experiência do usuário além de trazer um entendimento do que a aplicação propõe.  
+- `React`: Com ele criamos componentes funcionais da maneira mais simples, também utilizamos “props” para passar informação entre os componentes e seus filhos, fizemos o gerenciamento de estado com “useState”  
 - `React Hooks`
 - `TypeScript`
+    
+## 🔨 Funcionalidades do projeto
 
-E muito mais!
+<p align="justify"> O projeto tem como objetivo proporcionar a organização de times empresariais, sua funcionalidade adicionar membros a uma lista de times predefinida possibilita uma organização dos cooperadores .</p>
 
-## 🛠️ Abrir e rodar o projeto
+## 📁 Acesso ao projeto
 
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm start` para inicar o projeto.
+[Veja o projeto final do curso em funcionamento](https://organo-nt.vercel.app/).
 
-Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
-
+## 📷FOTOS DO PROJETO
+<div align="center">
+<img src="https://github.com/Luis-Emanuel/organo/blob/master/readme/img.png?raw=true"/>
+</div>
